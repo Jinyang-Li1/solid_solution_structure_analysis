@@ -1,5 +1,5 @@
 # solid_solution_structure_analysis
-Code for CSD searches and solid solution structure analysis in 'Revisiting Kitaigorodskii's Rules via Crystal Structure Database Mining: Every Criterion Has Violations, and the Integrity of Key Interactions Governs Molecular Solid-Solution Formation' by Li et al.
+Code for CSD searches and solid solution structure analysis in "Revisiting Kitaigorodskii's Rules via Crystal Structure Database Mining: Every Criterion Has Violations, and the Integrity of Key Interactions Governs Molecular Solid-Solution Formation" by Li et al.
 
 Code Files:
 
