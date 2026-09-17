@@ -13,9 +13,9 @@ Code Files:
 8. disordered_details_split_processor.py enables batch processing and splitting of disorder metadata.
 9. disordered_molecule_analysis.py analyses molecular geometry and disorder features of disordered crystals.
 10. disordered_atom_SMILES_analysis.py generates and analyses SMILES strings for disordered atomic fragments.
-11. Csd_formula_solid_solution_analysis.py screens and validates candidate solid-solution structures by chemical formula matching.
-12. Disorder_analysis_with_diagrams.py computes disorder statistics and exports visualisation plots.
-13. Dataset_structure_trace.py traces the provenance and filtering history of the curated solid-solution dataset.
-14. Intention_verification.py verifies the structural identity and compositional characteristics of candidate solid-solution entries.
+11. csd_formula_solid_solution_analysis.py screens and validates candidate solid-solution structures by chemical formula matching.
+12. disorder_analysis_with_diagrams.py computes disorder statistics and exports visualisation plots.
+13. dataset_structure_trace.py traces the provenance and filtering history of the curated solid-solution dataset.
+14. intention_verification.py verifies the structural identity and compositional characteristics of candidate solid-solution entries.
 15. similarity_coefficient_calculation.py calculates similarity coefficients for solid-solution components.
-16. Crystal_packing_similarity.py calculates crystal packing similarity and evaluates isostructurality, and exports pairwise comparison results into .csv files
+16. crystal_packing_similarity.py calculates crystal packing similarity and evaluates isostructurality, and exports pairwise comparison results into .csv files
